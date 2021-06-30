@@ -1,0 +1,12 @@
+/* BODY */
+
+.logo {
+   margin: 0 auto 0 auto;
+   display: block;
+   width: 50%;
+}
+
+.search-bar {
+    margin: auto;
+    display: flex;
+}
