@@ -138,6 +138,14 @@ footer {
  a {
      color: blue;
  }
+
+ a:link {
+     text-decoration: none;
+ }
+
+ a:hover {
+     text-decoration: underline;
+ }
  
  a:active {
      color: red;
