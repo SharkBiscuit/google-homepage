@@ -134,5 +134,12 @@ footer {
     
 
  }
-     
+
+ a {
+     color: blue;
+ }
+ 
+ a:active {
+     color: red;
+ }
 
