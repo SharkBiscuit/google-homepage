@@ -103,12 +103,13 @@ button {
     margin-top: -50px;
     color: #9aa0a6;
     height: 20px;
-    width: 230px;
+    width: auto;
     display: block;
     fill: currentColor;
     margin-right: auto;
     margin-left: auto;
     padding-right: 550px;
+    min-width: 50px;
 }
 
  /* FOOTER */
