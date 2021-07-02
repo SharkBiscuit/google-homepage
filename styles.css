@@ -114,4 +114,25 @@ button {
 
  /* FOOTER */
 
- 
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+ .right-links {
+     position: fixed;
+     bottom: 0;
+     right: 1rem;
+ }
+
+ .left-links {
+     float: left;
+     padding: 5px;
+    
+
+ }
+     
+
